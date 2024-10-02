@@ -1,7 +1,7 @@
 {
-  "name": "Ethix-MD",
+  "name": "NURO-MD",
   "version": "10.8.1",
-  "description": "Ethix-MD latest multi device whatsapp bot",
+  "description": "NURO-MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
